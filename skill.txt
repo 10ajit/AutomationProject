@@ -1,3 +1,4 @@
 Selenium Web Driver with Java, Oops , Jira, Agile Methodology. Hybrid Framework: POM (Page Object Model), SDLC, STLC and Defect Life Cycle,Smoke Testing ,Regretion Testing.Jmeter
 
-,jenkin
+,jenkin,
+Automation
